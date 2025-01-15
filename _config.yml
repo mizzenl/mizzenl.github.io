@@ -21,7 +21,7 @@ baseurl:
 url: https://dev.mizze.nl
 twitter_username: 
 github_username: mizzenl
-site_logo: "/assets/images/logo_1.png"
+site_logo: "/uploads/426a.png"
 copyright: Copyright &copy; 2025 <span>Mizze Solutions</span>. All rights reserved.
 permalink: "/:title"
 theme: minima
