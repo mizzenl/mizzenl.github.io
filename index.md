@@ -3,9 +3,8 @@ title: Mizze Solutions | Home
 slider:
 - image: "/assets/images/banner_1.png"
   heading: We Are <br><span>Mizze Solutions</span>
-  heading2: Empowering you with top-tier Microsoft expertises and Microsoft trainings.
-  text: Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante
-    sed eu lacus et diam lacinia.
+  heading2: Empowering you with top-tier Microsoft expertise and Microsoft trainings.
+  text: 
   button:
     name: Hire Me
     link: "#"
