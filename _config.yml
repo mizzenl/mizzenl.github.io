@@ -1,0 +1,80 @@
+---
+title: Mizze Solutions
+timezone: Europe/Amsterdam
+collections:
+  pages:
+    title: Pages
+    output: true
+    permalink: "/:title"
+  posts:
+    title: Posts
+    output: true
+  services:
+    title: Services
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: postbus@mizze.nl
+description: Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+baseurl: 
+url: https://deneb-jekyll.tortoizthemes.com
+twitter_username: jekyllrb
+github_username: jekyll
+site_logo: "/assets/images/logo_1.png"
+copyright: Copyright &copy; 2020 <span>Deneb</span>. All rights reserved.
+permalink: "/:title"
+theme: minima
+plugins:
+- jekyll-feed
+- jekyll-paginate-v2
+- jekyll-archives
+facebook_url: https://www.facebook.com/tortoiztheme
+twitter_url: https://twitter.com/tortoizthemes
+instagram_url: https://instagram.com/
+hero_image: "/assets/images/breadcrumb_bg.jpg"
+sass:
+  sass_dir: _sass
+  style: compressed
+site_preloader: true
+pagination:
+  enabled: true
+  debug: false
+  collection: posts
+  per_page: 5
+  permalink: "/page/:num/"
+  title: ":title - page :num"
+  limit: 0
+  sort_field: date
+  sort_reverse: true
+  category: posts
+  tag: 
+  locale: 
+  trail:
+    before: 2
+    after: 2
+  extension: html
+  indexpage: index
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
+jekyll-archives:
+  enabled: all
+  layout: category
+  permalinks:
+    category: "/category/:name/"
+feed:
+  collections:
+    posts:
+      path: "/index.xml"
+disqus:
+  shortname: deneb-1
+hire_us:
+  heading: Have Any Project in Mind ?
+  description: Curabitur libero eros, efficitur sit amet sodales tincidunt, aliquet
+    et leo sed ut nibh feugiat, auctor enim quis.
+  button:
+    link: "/contact/"
+    name: Hire Us
