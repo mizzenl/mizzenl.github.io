@@ -68,7 +68,7 @@ feed:
     posts:
       path: "/index.xml"
 disqus:
-  shortname: deneb-1
+  shortname: 
 hire_us:
   heading: Have Any Project in Mind ?
   description: Curabitur libero eros, efficitur sit amet sodales tincidunt, aliquet
