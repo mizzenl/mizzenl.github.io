@@ -21,19 +21,19 @@ description: Write an awesome description for your new site here. You can edit t
   results) and in your feed.xml site description.
 baseurl: 
 url: https://dev.mizze.nl
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: 
+github_username: mizzenl
 site_logo: "/assets/images/logo_1.png"
-copyright: Copyright &copy; 2020 <span>Deneb</span>. All rights reserved.
+copyright: Copyright &copy; 2025 <span>Mizze Solutions</span>. All rights reserved.
 permalink: "/:title"
 theme: minima
 plugins:
 - jekyll-feed
 - jekyll-paginate-v2
 - jekyll-archives
-facebook_url: https://www.facebook.com/tortoiztheme
-twitter_url: https://twitter.com/tortoizthemes
-instagram_url: https://instagram.com/
+facebook_url: 
+twitter_url: 
+instagram_url: 
 hero_image: "/assets/images/breadcrumb_bg.jpg"
 sass:
   sass_dir: _sass
