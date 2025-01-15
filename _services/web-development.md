@@ -1,6 +1,6 @@
 ---
+title: Web Development
 layout: service
-title: "Web Development"
 icon: "/assets/images/icon_2.png"
 post_image: "/assets/images/services/08.jpg"
 ---

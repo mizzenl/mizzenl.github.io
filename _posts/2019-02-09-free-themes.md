@@ -1,10 +1,14 @@
 ---
+title: Easily choose from thousan of free themes
+date: 2019-02-09 15:37:13 +01:00
+categories:
+- tips
+- tech
+tags:
+- technology
+- education
 layout: post
-title: "Easily choose from thousan of free themes"
-date: 2019-02-09 20:37:13 +0600
-tags: technology education
-categories: [tips, tech]
-author: "ecuelass chapman"
+author: ecuelass chapman
 post_image: "/assets/images/blog/08.jpg"
 ---
 

@@ -1,9 +1,12 @@
 ---
+title: Just Trying And Enjoying magna etiam
+date: 2019-02-09 15:37:13 +01:00
+categories:
+- tech
+tags:
+- technology
+- education
 layout: post
-title: "Just Trying And Enjoying magna etiam"
-date: 2019-02-09 20:37:13 +0600
-tags: technology education
-categories: [tech]
 author: Tortoiz
 post_image: "/assets/images/blog/04.jpg"
 ---

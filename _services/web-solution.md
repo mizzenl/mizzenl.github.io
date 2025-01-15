@@ -1,6 +1,6 @@
 ---
+title: Web Solution
 layout: service
-title: "Web Solution"
 icon: "/assets/images/icon_3.png"
 post_image: "/assets/images/services/09.jpg"
 ---
