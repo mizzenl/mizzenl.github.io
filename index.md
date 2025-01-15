@@ -10,7 +10,7 @@ slider:
     name: Hire Me
     link: "#"
 - image: "/assets/images/banner_02.png"
-  heading: We Are Creative <br><span>Deneb Agency</span>
+  heading: We Are Creative <br><span>Buurman & Buurman</span>
   heading2: We Are Professional Freelance Web Designer
   text: Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante
     sed eu lacus et diam lacinia.
@@ -18,7 +18,7 @@ slider:
     name: Hire Me
     link: "#"
 - image: "/assets/images/banner_03.png"
-  heading: We Are Creative <br><span>Deneb Agency</span>
+  heading: We Are Creative <br><span>Buurman & Buurman</span>
   heading2: We Are Professional Freelance Web Designer
   text: Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante
     sed eu lacus et diam lacinia.
