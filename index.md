@@ -1,8 +1,8 @@
 ---
-layout: home
+title: index
 slider:
 - image: "/assets/images/banner_1.png"
-  heading: We Are Creative <br><span>Deneb Agency</span>
+  heading: We Are Creative <br><span>Buurman & Buurman</span>
   heading2: We Are Professional Freelance Web Designer
   text: Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante
     sed eu lacus et diam lacinia.
@@ -143,5 +143,6 @@ contact_area:
   heading: Get In Touch With Us
   description: When unknow printer took a gallery of type and scramblted it to make
     a type specimen book
+layout: home
 ---
 
