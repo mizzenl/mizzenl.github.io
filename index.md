@@ -1,5 +1,5 @@
 ---
-title: index
+title: Mizze Solutions | Home
 slider:
 - image: "/assets/images/banner_1.png"
   heading: We Are Creative <br><span>Buurman & Buurman</span>
