@@ -1,5 +1,5 @@
 ---
-title: Mizze IT Solutions | Home
+title: Mizze Solutions | Home
 slider:
 - image: "/assets/images/banner_1.png"
   heading: We Are <br><span>Mizze Solutions</span>
