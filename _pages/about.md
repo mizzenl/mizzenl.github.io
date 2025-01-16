@@ -1,7 +1,7 @@
 ---
 title: Mizze Solutions | About us
 permalink: "/about/"
-position: 2
+position: 1
 page_header_image: "/assets/images/page_header.jpg"
 about:
   heading: Why You Hire Us?

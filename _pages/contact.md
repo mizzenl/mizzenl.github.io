@@ -1,7 +1,7 @@
 ---
 title: Mizze Solutions | Contact Us
 permalink: "/contact/"
-position: 0
+position: 2
 page_header_image: "/assets/images/page_header_2.jpg"
 form:
   heading: Send us a message

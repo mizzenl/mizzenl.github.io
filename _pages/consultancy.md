@@ -1,7 +1,7 @@
 ---
 title: Mizze Solutions | Consultancy
 permalink: "/services/"
-position: 1
+position: 0
 page_header_image: "/assets/images/page_header_3.jpg"
 workflow:
   heading: Consultancy
