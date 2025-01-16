@@ -1,6 +1,6 @@
 ---
-title: Trainings
-permalink: "/trainings/"
+title: Training Services
+permalink: "/trainingservices/"
 position: 1
 portfolios:
   heading: Microsoft Trainings
