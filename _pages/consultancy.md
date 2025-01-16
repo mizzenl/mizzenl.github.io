@@ -1,6 +1,6 @@
 ---
-title: Mizze Solutions | Consultancy
-permalink: "/services/"
+title: Consultancy
+permalink: consultancy
 position: 0
 page_header_image: "/assets/images/page_header_3.jpg"
 workflow:
