@@ -12,20 +12,19 @@ about:
     Over the years, also came the demand to do implementation projects and especially for the modern workplace, which is based on Microsoft Intune. This includes the configuration of Entra ID, Conditional Access, Mobile Application Management and all kinds of related Microsoft products.
   image: 
 our_skill:
-  heading: Let Know Our Expert Skills
-  description: Curabitur libero eros, efficitur sit amet sodales tincidunt, aliquet
-    et leo. Sed ut nibh feugiat, auctor enim quis, hendrerit ipsum. Aenean blandit
-    lacinia suscipit. Nunc ut tincidunt massa, eu semper lacus.
-  image: "/assets/images/skill.png"
+  heading: Our Expert Skills
+  description: Since our employees have a broad knowledge of the Microsoft 365 platform,
+    we show the most commonly used knowledge below.
+  image: 
   list:
-  - name: UI/UX Design
-    percentage: 85%
-  - name: Web Design
+  - name: Microsoft Intune
+    percentage: 91%
+  - name: Entra ID & Security
+    percentage: 83%
+  - name: Trainings
     percentage: 75%
-  - name: HTML/CSS
-    percentage: 90%
-  - name: Sketch
-    percentage: 65%
+  - name: Windows 10/11
+    percentage: 87%
 work_experience:
   heading: Our Work Experience
   description: When unknow printer took a gallery of type and scramblted it to make
