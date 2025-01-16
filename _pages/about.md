@@ -10,7 +10,7 @@ about:
 
 
     Over the years, also came the demand to do implementation projects and especially for the modern workplace, which is based on Microsoft Intune. This includes the configuration of Entra ID, Conditional Access, Mobile Application Management and all kinds of related Microsoft products.
-  image: "/assets/images/about.png"
+  image: 
 our_skill:
   heading: Let Know Our Expert Skills
   description: Curabitur libero eros, efficitur sit amet sodales tincidunt, aliquet
