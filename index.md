@@ -1,7 +1,7 @@
 ---
 title: Mizze Solutions | Home
 slider:
-- image: "/assets/images/banner_1.png"
+- image: "/uploads/8bbd5a_9d2c6692a85f44d4a15c148b24971779~mv2.png"
   heading: We Are <br><span>Mizze Solutions</span>
   heading2: Empowering you with top-tier Microsoft expertise and Microsoft trainings.
   text: 
