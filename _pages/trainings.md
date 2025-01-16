@@ -1,5 +1,5 @@
 ---
-title: Trainings
+title: Mizze Solutions | Trainings
 permalink: "/portfolios/"
 portfolios:
   heading: Microsoft Trainings
