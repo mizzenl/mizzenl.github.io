@@ -140,8 +140,8 @@ latest_blog_post:
     a type specimen book
 contact_area:
   heading: Get In Touch With Us
-  description: When unknow printer took a gallery of type and scramblted it to make
-    a type specimen book
+  description: If you are enthusiastic and would like more information regarding our
+    consulting and/or training services, please contact us using the form below.
 layout: home
 ---
 
