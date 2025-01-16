@@ -1,9 +1,8 @@
 ---
-title: Portfolios
+title: Trainings
 permalink: "/portfolios/"
-layout: portfolios
 portfolios:
-  heading: Our Latest Projects
+  heading: Microsoft Trainings
   description: When unknow printer took a gallery of type and scramblted it to make
     a type specimen book
 testimonials:
@@ -39,5 +38,6 @@ contact_area:
   heading: Get In Touch With Us
   description: When unknow printer took a gallery of type and scramblted it to make
     a type specimen book
+layout: portfolios
 ---
 
