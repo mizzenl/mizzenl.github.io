@@ -1,6 +1,7 @@
 ---
 title: Mizze Solutions | Trainings
 permalink: "/portfolios/"
+position: 3
 portfolios:
   heading: Microsoft Trainings
   description: When unknow printer took a gallery of type and scramblted it to make
