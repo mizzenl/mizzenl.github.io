@@ -74,5 +74,5 @@ hire_us:
   description: Curabitur libero eros, efficitur sit amet sodales tincidunt, aliquet
     et leo sed ut nibh feugiat, auctor enim quis.
   button:
-    link: "/contact/"
-    name: Hire Us
+    link: https://outlook.office365.com/book/Letstalkaboutbusiness@mizze.nl/
+    name: Book a call
