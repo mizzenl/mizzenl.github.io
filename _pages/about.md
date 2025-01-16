@@ -8,6 +8,7 @@ about:
   text: |-
     Mizze Solutions began in 2021 as an IT partner with the goal of providing quality Microsoft training to support the advancement of your employees' Microsoft knowledge. And to get them ready for the corresponding Microsoft exam.
 
+
     Over the years, also came the demand to do implementation projects and especially for the modern workplace, which is based on Microsoft Intune. This includes the configuration of Entra ID, Conditional Access, Mobile Application Management and all kinds of related Microsoft products.
   image: "/assets/images/about.png"
 our_skill:
