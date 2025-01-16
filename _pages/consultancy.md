@@ -1,10 +1,9 @@
 ---
-title: Our Services
+title: Mizze Solutions | Consultancy
 permalink: "/services/"
-layout: services
 page_header_image: "/assets/images/page_header_3.jpg"
 workflow:
-  heading: Our Work Flow
+  heading: Consultancy
   text: When unknow printer took a gallery of type and scramblted it to make a type
     specimen book
   list:
@@ -106,5 +105,6 @@ contact_area:
   heading: Get In Touch With Us
   description: When unknow printer took a gallery of type and scramblted it to make
     a type specimen book
+layout: services
 ---
 
