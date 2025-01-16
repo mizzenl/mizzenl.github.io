@@ -1,5 +1,5 @@
 ---
-title: Mizze Solutions | About us
+title: About us
 permalink: "/about/"
 position: 2
 page_header_image: "/assets/images/page_header.jpg"
