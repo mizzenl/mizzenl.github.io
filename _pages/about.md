@@ -22,7 +22,7 @@ our_skill:
   - name: Entra ID & Security
     percentage: 83%
   - name: Trainings
-    percentage: 75%
+    percentage: 90%
   - name: Windows 10/11
     percentage: 87%
 work_experience:
