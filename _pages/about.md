@@ -5,17 +5,12 @@ position: 2
 page_header_image: "/assets/images/page_header.jpg"
 about:
   heading: Why You Hire Us?
-  text: Proin ipsum arcu, lobortis id ullamcorper nec, vehicula eget magna. Sed ut
-    malesuada magna, eget lacinia sapien. Nam molestie non ex sit amet ornare. Nunc
-    in pellentesque ipsum, vel vulputate sapien.
-  text2: Suspendisse potenti. Aliquam elementum felis purus, quis vulputate libero
-    semper nec. Morbi tincidunt maximus nisl vel placerat. Curabitur at ligula ac
-    diam elementum hendrerit. Suspendisse nec metus eu est laoreet hendrerit vitae
-    non ipsum. Nam faucibus elementum arcu, eget eleifend tortor.
+  text: |
+    Mizze Solutions began in 2021 as an IT partner with the goal of providing quality Microsoft training to support the advancement of your employees' Microsoft knowledge. And to get them ready for the corresponding Microsoft exam.
+
+    Over the years, also came the demand to do implementation projects and especially for the modern workplace, which is based on Microsoft Intune. This includes the configuration of Entra ID, Conditional Access, Mobile Application Management and all kinds of related Microsoft products.
+  text2: 
   image: "/assets/images/about.png"
-  button:
-    name: Read More
-    link: "/about"
 our_skill:
   heading: Let Know Our Expert Skills
   description: Curabitur libero eros, efficitur sit amet sodales tincidunt, aliquet
