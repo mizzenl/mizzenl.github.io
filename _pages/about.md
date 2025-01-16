@@ -86,10 +86,6 @@ testimonials:
       orci justo vitae sem. Integer vitae imperdiet augue, sed accumsan diam. Etiam
       non quam commodo dolor convallis cursus. Duis tempus dolor eget gravida fringilla.
       In ultricies velit eget sem tempus egestas.
-latest_blog_post:
-  heading: Latest Blog
-  description: When unknow printer took a gallery of type and scramblted it to make
-    a type specimen book
 contact_area:
   heading: Get In Touch With Us
   description: When unknow printer took a gallery of type and scramblted it to make
