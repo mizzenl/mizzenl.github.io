@@ -72,7 +72,8 @@ disqus:
 hire_us:
   heading: Have Any Project in Mind ?
   description: If you are enthusiastic and would like more information regarding our
-    consulting and/or training services, please contact us using the form below.
+    consulting and/or training services, please use the button on the right to book
+    a call with us.
   button:
     link: https://outlook.office365.com/book/Letstalkaboutbusiness@mizze.nl/
     name: Book a call
