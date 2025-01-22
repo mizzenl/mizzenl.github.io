@@ -108,30 +108,14 @@ testimonials:
   heading: We work with the following customers
   description: 
   list:
-  - name: John Doe
-    position: Freelancer UX Designer
-    image: "/assets/images/testimonial_1.jpg"
-    text: Donec condimentum vehicula iaculis. Maecenas in aliquet neque. Suspendisse
-      viverra, ante eget pellentesque pulvinar, nunc nisi molestie ligula, vitae convallis
-      orci justo vitae sem. Integer vitae imperdiet augue, sed accumsan diam. Etiam
-      non quam commodo dolor convallis cursus. Duis tempus dolor eget gravida fringilla.
-      In ultricies velit eget sem tempus egestas.
-  - name: Jake Johnson
-    position: Freelancer UX Designer
-    image: "/assets/images/testimonial_2.jpg"
-    text: Donec condimentum vehicula iaculis. Maecenas in aliquet neque. Suspendisse
-      viverra, ante eget pellentesque pulvinar, nunc nisi molestie ligula, vitae convallis
-      orci justo vitae sem. Integer vitae imperdiet augue, sed accumsan diam. Etiam
-      non quam commodo dolor convallis cursus. Duis tempus dolor eget gravida fringilla.
-      In ultricies velit eget sem tempus egestas.
-  - name: Celesto Anderson
-    position: Freelancer UX Designer
-    image: "/assets/images/testimonial_3.jpg"
-    text: Donec condimentum vehicula iaculis. Maecenas in aliquet neque. Suspendisse
-      viverra, ante eget pellentesque pulvinar, nunc nisi molestie ligula, vitae convallis
-      orci justo vitae sem. Integer vitae imperdiet augue, sed accumsan diam. Etiam
-      non quam commodo dolor convallis cursus. Duis tempus dolor eget gravida fringilla.
-      In ultricies velit eget sem tempus egestas.
+  - name: Class-IT
+    position: 
+    image: "/uploads/brands-classit.png"
+    text: 
+  - name: New Technology Network Team
+    position: 
+    image: "/uploads/brands-ntnt.png"
+    text: 
 latest_blog_post:
   heading: Latest Blog
   description: When unknow printer took a gallery of type and scramblted it to make
