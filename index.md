@@ -5,7 +5,7 @@ slider:
   heading: We are <br><span>Mizze Solutions</span>
   heading2: Empowering you with top-tier Microsoft expertise and Microsoft trainings.
   text:
-    button: 
+  button: 
     name: About us
     link: "/about/"
 - image: "/uploads/13210.png"
