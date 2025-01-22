@@ -2,32 +2,32 @@
 title: Mizze Solutions | Home
 slider:
 - image: "/uploads/hero-image.png"
-  heading: We Are <br><span>Mizze Solutions</span>
+  heading: We are <br><span>Mizze Solutions</span>
   heading2: Empowering you with top-tier Microsoft expertise and Microsoft trainings.
   text: 
+- image: "/uploads/13210.png"
+  heading: We are <br><span>Mizze Solutions</span>
+  heading2: Microsoft Intune Consultancy
+  text: |-
+    The goal of our consulting service is simple; to get maximum value from your IT environment.
+
+    We do this by providing advice on how the Microsoft Intune platform can best contribute to achieving operational, and strategic goals.
   button:
-    name: Hire Me
-    link: "#"
-- image: "/assets/images/banner_02.png"
-  heading: We Are Creative <br><span>Buurman & Buurman</span>
-  heading2: We Are Professional Freelance Web Designer
-  text: Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante
-    sed eu lacus et diam lacinia.
+    name: More info
+    link: "/consultancy/"
+- image: "/uploads/5211206.png"
+  heading: We are <br><span>Mizze Solutions</span>
+  heading2: Microsoft Trainings
+  text: |-
+    The goal of our training service is simple; to upgrade your employees' knowledge and prepare them for the exam through official Microsoft training courses.
+
+    This can be done at the office, a central location or remote.
   button:
-    name: Hire Me
-    link: "#"
-- image: "/assets/images/banner_03.png"
-  heading: We Are Creative <br><span>Buurman & Buurman</span>
-  heading2: We Are Professional Freelance Web Designer
-  text: Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante
-    sed eu lacus et diam lacinia.
-  button:
-    name: Hire Me
-    link: "#"
+    name: More info
+    link: "/trainingservices/"
 services:
-  heading: Our Service
-  text: When unknow printer took a gallery of type and scramblted it to make a type
-    specimen book
+  heading: Our Services
+  text: 
 about:
   heading: Why You Hire Us?
   text: Proin ipsum arcu, lobortis id ullamcorper nec, vehicula eget magna. Sed ut
@@ -106,9 +106,8 @@ pricing:
     - name: SEO Marketing
     - name: Business Analysis
 testimonials:
-  heading: What People Say
-  description: When unknow printer took a gallery of type and scramblted it to make
-    a type specimen book
+  heading: We work with the following customers
+  description: 
   list:
   - name: John Doe
     position: Freelancer UX Designer
