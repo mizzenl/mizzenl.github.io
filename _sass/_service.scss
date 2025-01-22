@@ -16,7 +16,27 @@
 		.icon{
 			margin-bottom: 30px;
 		}
-
+		.info{
+			h4{
+				@media #{$lg}{
+					font-size: 18px;
+				}
+				margin-bottom: 15px;
+				font-weight: 600;
+				a{
+					color: $title;
+					font-weight: 600;
+				}
+			}
+			p{
+				margin-bottom: 20px;
+			}
+			.link_btn{
+				font-weight: 500;
+				color: $title;
+				text-transform: uppercase;
+			}
+		}
 	}
 }
 .service_v1{
