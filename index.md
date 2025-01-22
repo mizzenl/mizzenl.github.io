@@ -8,20 +8,16 @@ slider:
 - image: "/uploads/13210.png"
   heading: We are <br><span>Mizze Solutions</span>
   heading2: Microsoft Intune Consultancy
-  text: |-
-    The goal of our consulting service is simple; to get maximum value from your IT environment.
-
-    We do this by providing advice on how the Microsoft Intune platform can best contribute to achieving operational, and strategic goals.
+  text: The goal of our consulting service is simple; to get maximum value from your
+    IT environment.
   button:
     name: More info
     link: "/consultancy/"
 - image: "/uploads/5211206.png"
   heading: We are <br><span>Mizze Solutions</span>
   heading2: Microsoft Trainings
-  text: |-
-    The goal of our training service is simple; to upgrade your employees' knowledge and prepare them for the exam through official Microsoft training courses.
-
-    This can be done at the office, a central location or remote.
+  text: The goal of our training service is simple; to upgrade your employees' knowledge
+    and prepare them for the exam through official Microsoft training courses.
   button:
     name: More info
     link: "/trainingservices/"
