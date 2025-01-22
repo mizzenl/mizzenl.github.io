@@ -4,7 +4,10 @@ slider:
 - image: "/uploads/hero-image.png"
   heading: We are <br><span>Mizze Solutions</span>
   heading2: Empowering you with top-tier Microsoft expertise and Microsoft trainings.
-  text: 
+  text:
+    button:
+    name: About us
+    link: "/about/" 
 - image: "/uploads/13210.png"
   heading: We are <br><span>Mizze Solutions</span>
   heading2: Microsoft Intune Consultancy
