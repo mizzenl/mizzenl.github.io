@@ -3,3 +3,28 @@ layout: default
 ---
 
 {% include page-header.html %}
+
+<!-- Start deneb_single_blog section -->
+<section class="deneb_single_blog section_padding">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8">
+				<div class="single_blog_wrapper">
+					<div class="post_top_content">
+                        {% if page.post_image %}
+						<div class="post_img">
+							<img src="{{page.post_image}}" class="img-fluid" alt="{{post.title}}"/>
+						</div>
+                        {% endif %}
+					</div>
+					<div class="post_content pb-2">
+						{{page.content}}
+
+
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
+<!-- End deneb_single_blog section -->
