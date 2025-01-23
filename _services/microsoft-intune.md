@@ -1,8 +1,8 @@
 ---
 title: Microsoft Intune
-layout: service
 icon: "/assets/images/icon_1.png"
 post_image: "/assets/images/services/07.jpg"
+layout: services
 ---
 
 <p>Implement the Modern Workplace with Microsoft Intune for Windows, Apple and Android</p>
