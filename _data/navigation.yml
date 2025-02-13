@@ -1,10 +1,10 @@
 #Please use the main menu items under the "text"
 - text: About Us
   url: /about
-- text: Consultancy
-  url: /consultancy
-- text: Training Services
-  url: /trainingservices
+# - text: Consultancy
+#  url: /consultancy
+# - text: Training Services
+#  url: /trainingservices
 - text: Contact Us
   url: /contact
  
