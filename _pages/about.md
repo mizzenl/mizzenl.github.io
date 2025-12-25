@@ -19,7 +19,7 @@ about:
     workplace and endpoint management. By combining training, consultancy, and hands-on
     implementation, Mizze IT Solutions helps organizations work securely, efficiently,
     and future-ready in a Microsoft-driven world.'
-  image: 
+  image: "/uploads/infinity_zonderbier.png"
 our_skill:
   heading: Our Expert Skills
   description: Since our employees have a broad knowledge of the Microsoft 365 platform,
