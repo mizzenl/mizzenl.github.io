@@ -2,7 +2,7 @@
 title: About us
 permalink: "/about/"
 position: 2
-page_header_image: "/assets/images/page_header.jpg"
+page_header_image: "/uploads/ian-schneider-TamMbr4okv4-unsplash.jpg"
 about:
   heading: Something about us
   text: |-
