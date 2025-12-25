@@ -6,9 +6,11 @@ page_header_image: "/assets/images/page_header.jpg"
 about:
   heading: Something about us
   text: |-
-    Mizze Solutions began in 2021 as an IT partner with the goal of providing quality Microsoft training to support the advancement of your employees' Microsoft knowledge. And to get them ready for the corresponding Microsoft exam.
+    Mizze Solutions was founded in 2021 by Jeroen Burgerhout, with a clear mission: helping organizations get the most out of Microsoft technologies through high-quality training and real-world expertise. From the start, the focus has been on strengthening Microsoft knowledge within teams and preparing professionals for official Microsoft certifications.
 
-    Over the years, also came the demand to do implementation projects and especially for the modern workplace, which is based on Microsoft Intune. This includes the configuration of Entra ID, Conditional Access, Mobile Application Management and all kinds of related Microsoft products.
+    As customer needs evolved, Mizze IT Solutions naturally expanded into implementation and consultancy services, with a strong focus on the modern workplace powered by Microsoft Intune. This includes the design, configuration, and optimization of secure and scalable environments using Microsoft Entra ID, Conditional Access, Mobile Application Management, and closely related Microsoft solutions.
+
+    Jeroen is a Microsoft Intune MVP, recognized for his deep technical expertise, community contributions, and practical approach to modern workplace and endpoint management. By combining training, consultancy, and hands-on implementation, Mizze IT Solutions helps organizations work securely, efficiently, and future-ready in a Microsoft-driven world.
   image: 
 our_skill:
   heading: Our Expert Skills
