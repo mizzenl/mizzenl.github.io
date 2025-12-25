@@ -5,11 +5,7 @@ position: 2
 page_header_image: "/uploads/ian-schneider-TamMbr4okv4-unsplash.jpg"
 about:
   heading: Something about us
-  text: As customer needs evolved, Mizze IT Solutions naturally expanded into implementation
-    and consultancy services, with a strong focus on the modern workplace powered
-    by Microsoft Intune. This includes the design, configuration, and optimization
-    of secure and scalable environments using Microsoft Entra ID, Conditional Access,
-    Mobile Application Management, and closely related Microsoft solutions.
+  text: 
   image: 
 our_skill:
   heading: Our Expert Skills
